@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rasaya-crm-site.vercel.app/sitemap.xml
